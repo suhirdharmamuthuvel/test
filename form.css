@@ -1,0 +1,60 @@
+body{
+    background-image: url(form.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.hi{
+color: lightblue;
+    text-shadow:-2px -2px black;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5a5656;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus{
+    border-color: rgba(184, 54, 22, 0.5);
+    box-shadow: 0 0 8px rgba(128, 128, 128, 0.671);
+    border: none;
+    
+} 
+
+li a:hover {
+  background-color:lightblue;
+}
+.hea{
+    color: lightblue;
+    text-shadow:-2px -2px black;}
+.form{
+    margin-left: 400px;
+    margin-right: 500px;
+    padding: 60px;
+    background-color: white;  
+    border-radius: 6%;
+}
+.job{
+  height: 30px;
+  width: 275px;
+}
+.tarea{
+  height: 55px;
+  width: 275px;
+}

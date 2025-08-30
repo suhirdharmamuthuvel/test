@@ -1,0 +1,65 @@
+body{
+background-image:url(application.png);
+background-color: rgb(152, 199, 211);
+background-size: cover;
+background-position: center;
+height: 150vh;
+background-repeat: no-repeat;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5a5656;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: lightblue;
+}
+.hea{
+    color: lightblue;
+    text-shadow:-2px -2px black;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.btn{
+    height: 40px;
+    width: 175px;
+    background-color: lightblue;
+    margin-left: 500px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form{
+    margin-left: 400px;
+    margin-right: 500px;
+    padding: 60px;
+    background-color: white;  
+}
+.location{
+    text-align: center;
+}
+.jaya{
+    margin-top: 630px;
+}
+.bold{
+   font-weight: bolder;
+}
+.job{
+    width: 331px;
+    height:65px;
+}
